@@ -6,11 +6,12 @@
     "@testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^11.2.6",
     "@testing-library/user-event": "^13.1.9",
-    "axios": "^0.21.1",
+    "axios": "^0.21.4",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "4.0.3"
+    "react-scripts": "4.0.3",
+    "yup": "^0.32.11"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -32,5 +33,20 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "description": "**Read these instructions carefully. Understand exactly what is expected _before_ starting this Sprint Challenge.**\r **READ ALL INSTRUCTIONS BEFORE REACHING OUT TO ASK A QUESTION!!**\r (that above part was because the FAQs section answers 75% of questions)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Crosbieybarra5/web-sprint-challenge-single-page-applications.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Crosbieybarra5/web-sprint-challenge-single-page-applications/issues"
+  },
+  "homepage": "https://github.com/Crosbieybarra5/web-sprint-challenge-single-page-applications#readme",
+  "devDependencies": {
+    "cypress": "^9.1.1"
   }
 }
