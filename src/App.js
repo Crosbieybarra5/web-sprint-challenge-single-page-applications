@@ -1,6 +1,6 @@
 import React from "react";
 
-import Home from './Home.js'
+import Home from './Home'
 import Form from './Form.js'
 import Nav from './nav.js'
 import './App.css'
